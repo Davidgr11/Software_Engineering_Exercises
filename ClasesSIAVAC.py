@@ -2,7 +2,7 @@ import pymongo
 import threading
 import secrets
 import string
-########################################################################################################################
+####################################################################################################
 # Definir la clase MongoDBConnection
 class MongoDBConnection:
     # Definir una variable de clase que guarda la única instancia de la clase
